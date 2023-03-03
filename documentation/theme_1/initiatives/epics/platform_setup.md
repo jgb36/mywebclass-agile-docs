@@ -24,7 +24,11 @@ The epic "Platform setup and configuration" aims to set up and configure the vir
 2. Insufficient resources, such as IT support and training, to ensure successful platform setup and configuration
 
 ## Estimated Effort: 
-* 2-4 weeks
+1. Identify and select a suitable virtual team space platform: 2-4 days
+2. Install and configure the platform: 5-10 days
+3. Customize the platform to meet the team's needs: 5-10 days
+4. Configure access controls and security settings: 3-5 days
+5. Provide IT support and training to team members: 3-5 days
 
 ## Business Value: 
 The virtual team space platform will provide an efficient and secure way for team members to collaborate and share documents, leading to improved productivity and faster decision-making.

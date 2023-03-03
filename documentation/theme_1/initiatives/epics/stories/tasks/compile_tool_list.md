@@ -11,6 +11,10 @@ should include information on the features and capabilities of each tool, as wel
 2. Each tool has been assessed based on its features and capabilities
 3. The list includes pricing information where available
 
+The dependencies for this task are:
+1. A clear understanding of the project management needs of the team.
+2. Knowledge of the various agile project management tools and their features.
+
 ## Effort Estimate: 
 * 6 hours
 

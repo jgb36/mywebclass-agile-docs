@@ -11,6 +11,11 @@ should outline the testing criteria and the steps required to evaluate each tool
 2. The testing criteria for each tool have been clearly defined
 3. The steps required to evaluate each tool's features and capabilities have been documented
 
+The dependencies for this task are:
+1. Shortlisted tools have been identified.
+2. Requirements for the tool have been defined.
+3. The testing team has a good understanding of the tools and their capabilities.
+
 ## Effort Estimate: 
 * 10 hours
 

@@ -4,7 +4,8 @@ User Story: As a website developer, I want to set up a basic website structure, 
 so that the website is easy to navigate and provides a good user experience.
 
 Description: Develop a visual representation of the website structure using a sitemap. The sitemap will help identify the main pages and their hierarchy, 
-and ensure a logical flow of information for the users.
+and ensure a logical flow of information for the users. This will include things such as the home page,
+about us, services, and contact information.
 
 Effort Estimate: 2 days
 

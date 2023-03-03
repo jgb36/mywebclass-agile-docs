@@ -10,7 +10,9 @@ should include information on the features and capabilities of each tool, as wel
 1. A list of available agile project management tools has been compiled
 2. Each tool has been assessed based on its features and capabilities
 3. The list includes pricing information where available
-4. Effort Estimate: 6 hours
+
+## Effort Estimate: 
+* 6 hours
 
 ## Assigned To: 
 * Erik Guaman

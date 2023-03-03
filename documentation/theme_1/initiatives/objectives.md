@@ -44,3 +44,12 @@ Team:
 1) Project Manager (oversees the project)
 2) Content Strategist (looks at what people want)
 3) Content Strategist (see above)
+
+Epics:
+- [define project milestones](documentation/theme_1/initiatives/epics/milestones.md)
+
+Test Plan:
+Review project objectives and scope with stakeholders: This step involves reviewing the project objectives and scope with stakeholders to ensure that everyone is on the same page regarding the goals and desired outcomes of the project.
+Conduct research to identify target audience and their needs: This step involves conducting research to identify the target audience and their needs. The research may include surveys, focus groups, and other methods to gather information about the target audience.
+Define user stories and acceptance criteria: This step involves defining the user stories and acceptance criteria for the project. User stories should be specific, measurable, achievable, relevant, and time-bound, and acceptance criteria should be clearly defined and agreed upon by all stakeholders.
+Develop a prototype: This step involves developing a prototype of the website or application based on the user stories and acceptance criteria. The prototype should be tested and refined as necessary to ensure that it meets the requirements of the project.

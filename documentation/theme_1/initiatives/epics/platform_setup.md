@@ -8,11 +8,11 @@ The epic "Platform setup and configuration" aims to set up and configure the vir
 3. Ensure that the platform is secure and reliable
 
 ## User Stories:
-1. As an administrator, I want to set up the virtual team space platform, so that it is ready for team members to use.
+1. As an administrator, I want to set up the virtual team space platform, so that it is ready for team members to use and 
+configure access controls, so that team members can only access the information they need to do their work.
 2. As a team member, I want to be able to configure my user profile, so that I can personalize my experience on the platform.
 3. As a team member, I want to be able to set up channels and workspaces, so that I can organize my work and collaborate with my team more effectively.
-4. As an administrator, I want to configure access controls, so that team members can only access the information they need to do their work.
-5. As a team member, I want to be able to set up notifications and alerts, so that I can stay up-to-date on important information and updates.
+Also, I want to be able to set up notifications and alerts, so that I can stay up-to-date on important information and updates.
 
 ## Dependencies:
 1. Availability of the virtual team space platform

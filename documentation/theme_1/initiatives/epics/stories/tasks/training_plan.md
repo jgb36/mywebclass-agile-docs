@@ -9,6 +9,10 @@ This task involves developing a training plan that includes an overview of the c
 The plan should identify the target audience, training format, training materials, and any other resources needed to effectively deliver the training. 
 The acceptance criteria for this task include a finalized training plan, a list of required resources, and an estimated timeline for the training.
 
+The dependencies for this task are:
+1. The development of the communication guidelines document.
+2. Input and feedback from team members on their communication needs and challenges.
+
 ## Effort Estimate: 
 * 6 hours
 

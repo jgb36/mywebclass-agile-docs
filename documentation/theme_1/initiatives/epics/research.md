@@ -29,3 +29,7 @@ This will improve user satisfaction and engagement, potentially leading to incre
 
 Priority:
 Very High
+
+Stories:
+- [Conducting User Testing](documentation/theme_1/initiatives/epics/user_stores/research_UX.md)
+- [Conducting Interviews](documentation/theme_1/initiatives/epics/user_stores/research_pm.md)

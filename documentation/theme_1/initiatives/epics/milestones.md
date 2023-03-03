@@ -29,3 +29,7 @@ the project delivers value to the business.
 
 Priority:
 Very High
+
+Stories:
+- [Clear Understanding of Milestones](documentation/theme_1/initiatives/epics/user_stores/milestones_member.md)
+- [Understand Progress and make Informed Decisions](documentation/theme_1/initiatives/epics/user_stores/milestones_stake.md)

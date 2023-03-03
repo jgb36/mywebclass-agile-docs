@@ -31,3 +31,7 @@ A well-structured website will enhance the user experience, increase engagement,
 
 Priority:
 Very High
+
+Stories:
+- [Web Dev - wanting a good user experience](documentation/theme_1/initiatives/epics/user_stores/structure_dev.md)
+- [Visitor - wanting easy navigation](documentation/theme_1/initiatives/epics/user_stores/structure_visitor.md)

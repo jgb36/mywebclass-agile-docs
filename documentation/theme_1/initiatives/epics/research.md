@@ -24,8 +24,11 @@ Estimated Effort:
 3 Months
 
 Business Value:
-The research findings will inform the design and development of the website, ensuring that it meets the needs and preferences of the target audience. 
-This will improve user satisfaction and engagement, potentially leading to increased traffic, conversions, and revenue.
+The research findings will inform the design and development of the website, ensuring that it meets the needs and preferences of the target audience.
 
 Priority:
 Very High
+
+Stories:
+- [Conducting User Testing](documentation/theme_1/initiatives/epics/user_stores/research_UX.md)
+- [Conducting Interviews](documentation/theme_1/initiatives/epics/user_stores/research_pm.md)

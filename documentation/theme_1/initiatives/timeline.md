@@ -44,3 +44,12 @@ Team
 1) Project Manager (Leader of the whole project, also must ensure legal requirements are met)
 2) Web Developer (responsible for developing the webpage)
 3) Web Developer (see above)
+
+Epics:
+- [Determine the basic website structure](documentation/theme_1/initiatives/epics/timeline.md)
+
+Test Plan:
+Functional testing: Test that the timeline accurately reflects the development process and includes all necessary tasks and milestones.
+Usability testing: Test that the timeline is clear and easy to understand, and that it provides a useful tool for managing the project.
+Performance testing: Test that the timeline can handle the expected load of users and tasks without becoming slow or crashing.
+Security testing: Test that the timeline is secure and protected from unauthorized access or manipulation.

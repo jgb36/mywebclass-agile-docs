@@ -46,3 +46,12 @@ Dependencies:
 1) The project is dependent on the availability and skills of the website development team.
 2) The project is dependent on the availability of appropriate website content, such as text, images, and multimedia.
 3) The project is dependent on the availability of appropriate website design and optimization tools and technologies.
+
+Epics:
+- [Determine the basic website structure](documentation/theme_1/initiatives/epics/basic_structure.md)
+
+Test Plan:
+Unit testing: This will involve testing individual components of the website, such as buttons, forms, and other features to ensure they function properly.
+Integration testing: This will involve testing how different components of the website work together, such as how the navigation bar interacts with the different pages.
+User acceptance testing: This will involve testing the website's functionality from the perspective of the end user. This includes testing the website's responsiveness, ease of use, and overall user experience.
+Performance testing: This will involve testing the website's ability to handle a large number of users and traffic, and ensuring that it loads quickly and without errors.

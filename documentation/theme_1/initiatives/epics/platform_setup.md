@@ -1,4 +1,4 @@
-# Epic 1: Platform setup and configuration
+# Epic 3: Platform setup and configuration
 ## Description:
 The epic "Platform setup and configuration" aims to set up and configure the virtual team space platform for collaboration, document sharing, and real-time communication.
 

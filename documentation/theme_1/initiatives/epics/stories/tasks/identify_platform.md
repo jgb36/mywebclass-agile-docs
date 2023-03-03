@@ -1,4 +1,4 @@
-## Task Title: Identify the virtual team space platform that best meets the needs of the team
+# Task Title: Identify the virtual team space platform that best meets the needs of the team
 
 ## User Story: 
 As an administrator, I want to set up the virtual team space platform, so that it is ready for team members to use.

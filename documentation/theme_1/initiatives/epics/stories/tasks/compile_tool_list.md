@@ -1,4 +1,4 @@
-## Task Title: Research and compile a list of available agile project management tools
+# Task Title: Research and compile a list of available agile project management tools
 
 ## User Story: 
 As a project manager, I want to research and identify available agile project management tools so that I can select the 

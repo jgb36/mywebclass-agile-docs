@@ -1,4 +1,4 @@
-## Task Title: Develop a testing plan for each of the shortlisted tools
+# Task Title: Develop a testing plan for each of the shortlisted tools
 
 ## User Story: 
 As an IT specialist, I want to evaluate and compare the capabilities and features of the selected agile project 

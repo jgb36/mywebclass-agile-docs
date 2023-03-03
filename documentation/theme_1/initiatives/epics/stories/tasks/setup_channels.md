@@ -1,4 +1,4 @@
-## Task Title: Set up channels and workspaces with appropriate names and descriptions
+# Task Title: Set up channels and workspaces with appropriate names and descriptions
 
 ## User Story: 
 * As a team leader, I want to set up channels and workspaces in the virtual team space platform, so that team members

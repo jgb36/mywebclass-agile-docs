@@ -1,4 +1,4 @@
-## Task Title: Develop draft of communication guidelines document
+# Task Title: Develop draft of communication guidelines document
 
 ## User Story: 
 As a project manager, I want to develop communication guidelines that outline best practices for communication in the team 

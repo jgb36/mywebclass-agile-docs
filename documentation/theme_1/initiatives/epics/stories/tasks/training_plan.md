@@ -1,4 +1,4 @@
-## Task Title: Develop a training plan that includes an overview of the communication guidelines and how to apply them
+# Task Title: Develop a training plan that includes an overview of the communication guidelines and how to apply them
 
 ## User Story: 
 As a team leader, I want to provide training and support to team members on how to use the communication guidelines 
